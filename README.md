@@ -1,5 +1,6 @@
-#Construction Safety and Surveillance
-Project Overview
+# Construction Safety and Surveillance
+
+Project Overview:
 Construction Safety and Surveillance is a project aimed at enhancing safety and security at construction sites through the use of drones and machine learning. This system is designed to monitor construction sites in real-time, capturing images and processing them to ensure the safety of construction workers and the accuracy of ongoing activities.
 
 Key features of this project include:
